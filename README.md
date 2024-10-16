@@ -4,10 +4,10 @@ I'm a software engineer with a passion for Go and Rust. I enjoy exploring new te
 
 ## 🛠️ My Current Interest
 
-| Topic     | Status  |
-| --------- | ------- |
-| Go Lang   | Ongoing |
-| Rust Lang | Ongoing |
+| Topic       | Status  |
+| ----------- | ------- |
+| Rust Lang   | Ongoing |
+| React, Next | Ongoing |
 
 ## 📊 Most Used Languages
 
