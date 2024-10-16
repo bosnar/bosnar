@@ -11,4 +11,4 @@ I'm a software engineer with a passion for Go and Rust. I enjoy exploring new te
 
 ## 📊 Most Used Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bosnar&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bosnar&layout=compact&theme=tokyonight)
